@@ -16,7 +16,6 @@ class Student extends Model
         'department_id',
         'course_id',
         'section_id',
-
         'information_id',
     ];
 

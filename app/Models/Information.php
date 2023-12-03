@@ -21,7 +21,7 @@ class Information extends Model
         'province',
         'picture',
         'description',
-
+        'award',
         'course_id',
         'school_year_id',
         'department_id',
